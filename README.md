@@ -1,2 +1,2 @@
-# easyDevops
-This repository will contain all our projects. 
+# easydevops-git
+this is the repository that contains all the files that we will work on to demonstrate our git skills.
